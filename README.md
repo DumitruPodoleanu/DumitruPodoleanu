@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DumitruPodoleanu
 -  I’m interested in UX/UI Design and Front-End developement, also am I am quite interested in Data Engineering.
--  Recently, I've made a website for a DJ group which I designed and coded myself, I've enjoyed working with FIGMA as it was my first experience working with this tool but I look forward to new projects ideas where I can further develop my skills with all these tools and perhaps discover new ones.
+-  Recently, I've made a website for a DJ group which I designed and coded myself, I've enjoyed working with FIGMA as it was my first experience working with this tool but I look forward to new projects ideas where I can further develop my skills with all these tools and perhaps discover new ones. www.dima-events.vercel.app
 -  I have also participated in a couple of school projects one of which was a internal tool for a Belgian company called Telnet. It was a tool that employees would use to look for new job opportunities inside the company based on their skills and interests. It was a full-stack project built with next.js and JAVA.
 -  I’m currently learning Applied Computer Science at UCLL in Leuven, Belgium.
 -  Anyone can reach out to me on my email, dimapodoleanu@gmail.com for project ideas.
