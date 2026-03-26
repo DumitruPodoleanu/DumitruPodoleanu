@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Dima (Dumitru) Podoleanu 👋</h1>
-  <p><strong>Full-Stack Developer | UX/UI Enthusiast | Aspiring Data Engineer</strong></p>
+  <p><strong>Full-Stack Developer | UX/UI Enthusiast | Aspiring Software Developer</strong></p>
   <p>📍 Based in Leuven, Belgium 🇧🇪</p>
 
   <a href="mailto:dimapodoleanu@gmail.com">
