@@ -31,7 +31,7 @@ I am a final-year **Applied Computer Science** student at **UCLL Leuven**. I spe
 | **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) **UX/UI Prototyping** |
 
 ### 🏛️ Architectural Philosophy
-I always try toi stick to best practices and architect sustainable software. I am have experience in:
+I always try to stick to best practices and architect sustainable software. I am have experience in:
 * **Architectural Patterns:** Clean Architecture, Screaming Architecture, Layered Architecture.
 * **Design Principles:** Object-Oriented Programming (OOP), SOLID, DRY, YAGNI, Test-Driven Development (TDD).
 
