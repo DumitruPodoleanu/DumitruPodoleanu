@@ -3,7 +3,7 @@
 Frontend developer who also does the design, based in Chișinău, Moldova.
 
 - Co-founder of [Tankerdesk](https://tankerdesk.com), software for tanker operators. I handle engineering, development and deployment.
-- Software developer intern at StarNet, where I built the nativ.md mobile app and spent a month on a .NET backend.
+- Software developer intern at StarNet, where I am building the nativ.md mobile app.
 - Final year of Applied Computer Science at UCLL, Belgium.
 
 [dimapodoleanu.com](https://dimapodoleanu.com) · [LinkedIn](https://www.linkedin.com/in/dumitru-podoleanu/) · [dimapodoleanu@gmail.com](mailto:dimapodoleanu@gmail.com)
