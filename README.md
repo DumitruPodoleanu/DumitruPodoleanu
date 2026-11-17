@@ -1,6 +1,6 @@
 # Dumitru Podoleanu
 
-Frontend developer and designer from Chișinău, Moldova. Co-founder of [Tankerdesk](https://tankerdesk.com), where I handle engineering. Software developer intern at StarNet, where I am building the nativ.md mobile app. Final year of Applied Computer Science at UCLL.
+Frontend developer and designer from Chișinău, Moldova. Co-founder of [Tankerdesk](https://tankerdesk.com), where I handle engineering. Software developer intern at StarNet, where I am building the nativ.md mobile app. Applied Computer Science at UCLL, graduating November 2026.
 
 - [tankerdesk.com](https://tankerdesk.com): our marketing site
 - [dimapodoleanu.com](https://dimapodoleanu.com): my portfolio
